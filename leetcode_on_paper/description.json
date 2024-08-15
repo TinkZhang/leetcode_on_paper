@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "dc:title": "Mark2Epub Sample",
+    "dc:creator": "Tink",
+    "dc:language": "zh-CN",
+    "dc:identifier": "tinks.app",
+    "dc:source": "",
+    "meta": "",
+    "dc:date": "2024-10-01",
+    "dc:publisher": "",
+    "dc:contributor": "",
+    "dc:rights": "",
+    "dc:description": "",
+    "dc:subject": ""
+  },
+  "cover_image": "cover.png",
+  "default_css": ["code_styles.css", "general.css"],
+  "chapters": [
+    { "markdown": "chapter1.md", "css": "" },
+    { "markdown": "chapter-linkedlist.md", "css": "" },
+    { "markdown": "chapter2.md", "css": "" },
+    { "markdown": "chapter3.md", "css": "" },
+    { "markdown": "chapter4.md", "css": "specific.css" }
+  ]
+}
